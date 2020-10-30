@@ -1,8 +1,8 @@
 # Dothereum
 
 Dothereum is a **thought experiment** descirbing what eth1 -> eth2
-transition would look like if we replace the eth2 part with Polkadot /
-Substrate. As a thought experiement, **there's no plan to implement
+transition would look like if it happens on Polkadot / Substrate. As a
+thought experiement, **there's no plan to implement
 Dothereum**. However, we develop and provide the rough specificiation
 here as inspirations for both Polkadot and Ethereum ecosystems.
 
